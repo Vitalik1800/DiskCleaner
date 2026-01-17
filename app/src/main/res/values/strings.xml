@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">🧹 Disk Cleaner</string>
+    <string name="select_folders">Оберіть папки для очищення</string>
+    <string name="scan">🔍 Сканувати</string>
+    <string name="clean">🗑️ Очистити диск</string>
+    <string name="report">Натисніть \'Сканувати\' для початку</string>
+    <string name="add_another_folder">➕ Додати іншу папку</string>
+</resources>
